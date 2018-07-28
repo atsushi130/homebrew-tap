@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Hs < Formula
+class HttpStatusCodeSearcher < Formula
   desc "HTTP status code searcher"
   homepage "https://github.com/atsushi130/http-status-code-searcher"
   url "https://github.com/atsushi130/http-status-code-searcher/archive/v0.1.3.tar.gz"
