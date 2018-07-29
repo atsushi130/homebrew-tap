@@ -4,8 +4,8 @@
 class Kube < Formula
   desc "Incrementally search pods for which kubectl command is to be executed."
   homepage "https://github.com/atsushi130/kube"
-  url "https://github.com/atsushi130/kube/archive/v1.0.0.tar.gz"
-  sha256 "c6d44d115e18b59e0fee0d98ce0ef8decf2d006450b3ef8c3db81365deea619e"
+  url "https://github.com/atsushi130/kube/archive/v1.0.1.tar.gz"
+  sha256 "c39097cb95b08ac60b9a8f85ef19fb1e7ae1f64e38b7c3386cd19ad7c41f7178"
   # depends_on "cmake" => :build
 
   def install
