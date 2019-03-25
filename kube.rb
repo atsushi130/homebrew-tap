@@ -2,8 +2,8 @@
 #                https://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Kube < Formula
-  desc ""
-  homepage ""
+  desc "Incrementally search pods for which kubectl command is to be executed."
+  homepage "https://github.com/atsushi130/kube"
   url "https://github.com/atsushi130/kube/archive/v1.1.0.tar.gz"
   sha256 "98720570909ec3d8548ff55d737a289f320b905bd894eb1ee415f8558506d2f3"
   # depends_on "cmake" => :build
